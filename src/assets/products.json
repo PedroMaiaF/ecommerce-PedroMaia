@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Capacete-Do-Darth-Varder",
+        "rating": 4.7,
+        "price": 709,
+        "imageUrl": "https://files.fm/thumb.php?i=7nusurdy7",
+        "imageAlt": "LEGO-Star-Wars-Capacete-Do-Darth-Varder"
+    },
+    {
+        "id": 2,
+        "name": "Disney-Emboscada-em-Ferrix",
+        "rating": 4.9,
+        "price": 699,
+        "imageUrl": "https://files.fm/thumb.php?i=r9z5aqeqq",
+        "imageAlt": "LEGO-Star-Wars-Gunship-da-República"
+    },
+    {
+        "id": 3,
+        "name": "Gunship-da-República",
+        "rating": 4.5,
+        "price": 4299,
+        "imageUrl": "https://files.fm/thumb.php?i=hhzvtavds",
+        "imageAlt": "LEGO-Star-Wars-Gunship-da-República"
+    },
+    {
+        "id": 4,
+        "name": "Imperial-Tie-Fighter",
+        "rating": 4.8,
+        "price": 369,
+        "imageUrl": "https://files.fm/thumb.php?i=ms97a8tfy",
+        "imageAlt": "LEGO-Star-Wars-Imperial-Tie-Fighter"
+    },
+    {
+        "id": 5,
+        "name": "Microfighter-Millennium-Falcon",
+        "rating": 4.9,
+        "price": 142,
+        "imageUrl": "https://files.fm/thumb.php?i=6gaxppuzy",
+        "imageAlt": "LEGO-Star-Wars-Microfighter-Millennium-Falcon"
+    },
+    {
+        "id": 6,
+        "name": "Millennium-Falcon",
+        "rating": 5,
+        "price": 1389,
+        "imageUrl": "https://files.fm/thumb.php?i=2sx4jasuv",
+        "imageAlt": "LEGO-Star-Wars-Millennium-Falcon"
+    },
+    {
+        "id": 7,
+        "name": "Problemas-em-Tatooine",
+        "rating": 4.7,
+        "price": 299,
+        "imageUrl": "https://files.fm/thumb.php?i=68max3d2h",
+        "imageAlt": "LEGO-Star-Wars-Problemas-em-Tatooine"
+    },
+    {
+        "id": 8,
+        "name": "The-Razor-Crest-Star-Wars-TM",
+        "rating": 4.8,
+        "price": 6199,
+        "imageUrl": "https://files.fm/thumb.php?i=hg9eaahau",
+        "imageAlt": "LEGO-Star-Wars-The-Razor-Crest-Star-Wars-TM"
+    }
+]
