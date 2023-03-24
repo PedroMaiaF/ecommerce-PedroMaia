@@ -1,7 +1,5 @@
-# ecommerce-ammal
+# Labecommerce-frontend
 
 # Deploy
-https://ecommerce-ammal.surge.sh
+https://labecommerce-frontend-pedro-maia.vercel.app/
 
-# Referência
-https://www.figma.com/community/file/1023166487104363857
